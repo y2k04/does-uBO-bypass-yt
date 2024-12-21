@@ -1,4 +1,4 @@
-const UBLOCK_LIST = "https://raw.githubusercontent.com/y2k04/misc/main/yt-fix.txt"; /*"https://raw.githubusercontent.com/stephenhawk8054/misc/main/yt-fix.txt"*/
+const UBLOCK_LIST = "https://raw.githubusercontent.com/y2k04/misc/patch-1/yt-fix.txt"; /*"https://raw.githubusercontent.com/stephenhawk8054/misc/main/yt-fix.txt"*/
 let ISDARKMODE = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 
 async function fetchData(codeList){
