@@ -4,14 +4,14 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<br><br>
-<div align="center"> 
-  <b>Special thanks to the uBlock Origin team for their exceptional talent and for developing one of the best ad-blocking tools available,</b>
-  <b>and a special thanks to drhyperion451 for creating this project!</b>
-</div>
+<br>
+
+> [!IMPORTANT] 
+> Special thanks to the uBlock Origin team for their exceptional talent and for developing one of the best ad-blocking tools available.
+> <br><b>And a very special thanks to [drHyperion451](https://github.com/drHyperion45) for creating this project!</b>
 
 <!-- PROJECT LOGO -->
-<br />
+<br><br>
 <div align="center">
   <a href="https://github.com/y2k04/does-uBO-bypass-yt">
     <img src="assets/icons/favicon-green.svg" alt="Logo" width="80" height="80">
@@ -36,7 +36,6 @@
 4. [Contributing](#contributing)
 5. [Donations](#donations)
 6. [Other Projects](#other-projects)
-7. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -51,41 +50,28 @@ The uBlock Filters Update Checker functions by comparing the latest filter maint
 ## Usage
 
 To use the uBlock Filters Update Checker, visit the website and follow these steps:
-
 1. Access it [here](https://y2k04.github.io/does-uBO-bypass-yt/).
-
 2. Check the status of your uBlock filters by comparing the filter ID provided on the website with the latest filter ID maintained by uBlock volunteers.
-
 3. If the IDs match, your filters are up to date, and you should not encounter ads on YouTube.
-
 4. If the IDs do not match, it's recommended to update your filters as soon as possible.
-
 5. If you still see ads on YouTube after updating your filters, you may consider reporting the issue to uBlock Origin.
 
 ## Contributing
 
 We welcome contributions to the uBlock Filters Update Checker project. Here's how you can get involved:
-
 1. Fork the development branch of the project repository.
-
 2. Make the necessary changes or improvements to the code.
-
 3. Submit a pull request (PR) to the development branch. This helps prevent overloading GitHub pages deployment.
 
 When contributing, please follow these best practices:
-
 - Separate responsibilities: HTML is for information, CSS is for styling and animations, and JavaScript is for making the website interactive. This approach helps keep the JavaScript code clean.
-
 - Use comments: Provide brief comments to explain the purpose of your functions and code snippets, making it easier for maintainers to understand your changes.
-
 - Avoid external libraries: Stick to plain JavaScript for compatibility, speed, and minimal bloat, especially for simple static websites.
-
 - Development tools: You can use Firefox Developer Edition to view the website locally, edit CSS, and debug JavaScript. VSCode is a suitable editor for HTML and JavaScript.
 
 <b>Thanks for your contributions!</b>
 
 ## Donations
-
 I do not accept donations. This project follows the same philosophy as the uBlock project, focusing on user privacy and avoiding tracking, as the web should have been from the beginning.
 
 ## Other Projects
