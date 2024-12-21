@@ -4,10 +4,16 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+<br><br>
+<div align="center"> 
+  <b>Special thanks to the uBlock Origin team for their exceptional talent and for developing one of the best ad-blocking tools available,</b>
+  <b>and a special thanks to drhyperion451 for creating this project!</b>
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/drHyperion451/does-uBO-bypass-yt">
+  <a href="https://github.com/y2k04/does-uBO-bypass-yt">
     <img src="assets/icons/favicon-green.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,11 +22,9 @@
   <p align="center">
     This website will tell you!
     <br />
-    <a href="https://drhyperion451.github.io/does-uBO-bypass-yt">View Website</a>
+    <a href="https://y2k04.github.io/does-uBO-bypass-yt">View Website</a>
     ·
-    <a href="https://github.com/drHyperion451/does-uBO-bypass-yt/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/drHyperion451/does-uBO-bypass-yt/issues">Request Feature</a>
+    <a href="https://github.com/y2k04/does-uBO-bypass-yt/issues">Report Bug or Request Feature</a>
   </p>
 </div>
 
@@ -36,7 +40,7 @@
 
 ## Introduction
 
-The uBlock Filters Update Checker is a tool that helps users of uBlock Origin, a popular ad-blocking browser extension, to stay informed about the status of their filters when it comes to blocking YouTube ads. This tool compares the latest filter maintained by [ublock volunteers](https://github.com/stephenhawk8054/misc/blob/main/yt-fix.txt) with [youtube anti-adbock script](https://pastefy.app/G1Txv5su/raw) to determine if the filters are up to date. This documentation provides detailed information on how to use and contribute to the project.
+The uBlock Filters Update Checker is a tool that helps users of uBlock Origin, a popular ad-blocking browser extension, to stay informed about the status of their filters when it comes to blocking YouTube ads. This tool compares the latest filter maintained by [ublock volunteers](https://github.com/stephenhawk8054/misc/blob/main/yt-fix.txt) with the desktop favicon url ID (which is also shared with `desktop_polymer.js`) to determine if the filters are up to date. This documentation provides detailed information on how to use and contribute to the project.
 
 ## How It Works
 
@@ -48,7 +52,7 @@ The uBlock Filters Update Checker functions by comparing the latest filter maint
 
 To use the uBlock Filters Update Checker, visit the website and follow these steps:
 
-1. Access it [here](https://drhyperion451.github.io/does-uBO-bypass-yt/).
+1. Access it [here](https://y2k04.github.io/does-uBO-bypass-yt/).
 
 2. Check the status of your uBlock filters by comparing the filter ID provided on the website with the latest filter ID maintained by uBlock volunteers.
 
@@ -85,22 +89,15 @@ When contributing, please follow these best practices:
 I do not accept donations. This project follows the same philosophy as the uBlock project, focusing on user privacy and avoiding tracking, as the web should have been from the beginning.
 
 ## Other Projects
-
 Explore other projects at [drhyperion451.github.io](https://github.com/drHyperion451)!
 
-## Acknowledgments
-
-<div align="center"> 
-  <b>Special thanks to the uBlock Origin team for their exceptional talent and for developing one of the best ad-blocking tools available.</b>
-</div>
-
-[contributors-shield]: https://img.shields.io/github/contributors/drHyperion451/does-uBO-bypass-yt.svg?style=for-the-badge
-[contributors-url]: https://github.com/drHyperion451/does-uBO-bypass-yt/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/drHyperion451/does-uBO-bypass-yt.svg?style=for-the-badge
-[forks-url]: https://github.com/drHyperion451/does-uBO-bypass-yt/network/members
-[stars-shield]: https://img.shields.io/github/stars/drHyperion451/does-uBO-bypass-yt.svg?style=for-the-badge
-[stars-url]: https://github.com/drHyperion451/does-uBO-bypass-yt/stargazers
-[issues-shield]: https://img.shields.io/github/issues/drHyperion451/does-uBO-bypass-yt.svg?style=for-the-badge
-[issues-url]: https://github.com/drHyperion451/does-uBO-bypass-yt/issues
-[license-shield]: https://img.shields.io/github/license/drHyperion451/does-uBO-bypass-yt.svg?style=for-the-badge
-[license-url]: https://github.com/drHyperion451/does-uBO-bypass-yt/blob/dev/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/y2k04/does-uBO-bypass-yt.svg?style=for-the-badge
+[contributors-url]: https://github.com/y2k04/does-uBO-bypass-yt/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/y2k04/does-uBO-bypass-yt.svg?style=for-the-badge
+[forks-url]: https://github.com/y2k04/does-uBO-bypass-yt/network/members
+[stars-shield]: https://img.shields.io/github/stars/y2k04/does-uBO-bypass-yt.svg?style=for-the-badge
+[stars-url]: https://github.com/y2k04/does-uBO-bypass-yt/stargazers
+[issues-shield]: https://img.shields.io/github/issues/y2k04/does-uBO-bypass-yt.svg?style=for-the-badge
+[issues-url]: https://github.com/y2k04/does-uBO-bypass-yt/issues
+[license-shield]: https://img.shields.io/github/license/y2k04/does-uBO-bypass-yt.svg?style=for-the-badge
+[license-url]: https://github.com/y2k04/does-uBO-bypass-yt/blob/main/LICENSE
